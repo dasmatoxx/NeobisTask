@@ -1,0 +1,32 @@
+{ 
+    "Anton" : {
+      "username"  : "dasmatox",
+      "location"  : "Bishkek",
+      "online"    : true,
+      "followers" : 5000000000
+    },
+    "Alexandr" : {
+      "username"  : "Simple",
+      "location"  : "Ukraine",
+      "online"    : false,
+      "followers" : 1000000
+    },
+    "Eren Eger" : {
+      "username"  : "ErenEGA",
+      "location"  : "Eldia",
+      "online"    : true,
+      "followers" : 1231223
+    },
+    "Johny Depp" : {
+      "username"  : "Captain Jack Sparrow",
+      "location"  : "Supreme Court",
+      "online"    : true,
+      "followers" : 654333333
+    },
+    "Sadyr Japarov" : {
+      "username"  : "President",
+      "location"  : "Bishkek",
+      "online"    : true,
+      "followers" : 6541212
+    }
+  }
